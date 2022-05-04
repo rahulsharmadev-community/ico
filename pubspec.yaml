@@ -1,0 +1,41 @@
+name: ico
+description: Flutter plugin for awesome icons.
+maintainer: Rahul Sharma (@rahulsharmadev)
+homepage: https://github.com/rahulsharmadev-community/
+repository: https://github.com/rahulsharmadev-community/ico/
+version: 0.0.2
+
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: General
+      fonts:
+        - asset: lib/fonts/general.ttf
+       
+    - family: Communication
+      fonts:
+        - asset: lib/fonts/communication.ttf
+       
+    - family: Media
+      fonts:
+        - asset: lib/fonts/media.ttf
+       
+    - family: Brand
+      fonts:
+        - asset: lib/fonts/brand.ttf
+       
+    - family: Other
+      fonts:
+        - asset: lib/fonts/other.ttf

@@ -1,3 +1,4 @@
+// import 'package:flutter/material.dart';
 import 'package:flutter/material.dart';
 import 'package:ico/ico.dart';
 
@@ -35,7 +36,13 @@ class _MyHomePageState extends State<MyHomePage> {
             // Using Ico the standard way: injecting the IconData into the Icon object
             Icon(Ico.gamepad_filled),
             Icon(Ico.printer_filled),
-            Icon(Ico.microphone_outline),
+            Icon(Ico.microphone_filled),
+            Icon(Ico.add_outline),
+            IcoG(
+              Ico.play_outline,
+              size: 100,
+              colors: icogObamasResignation,
+            )
           ],
         ),
       ),

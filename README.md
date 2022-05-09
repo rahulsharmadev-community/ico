@@ -59,4 +59,6 @@ Multiple shadows are supported to replicate lighting from multiple light sources
             Shadow(color: Colors.black, blurRadius: 3, offset: Offset(2, 2))
           ],
         );
-    ```
+```
+
+![](https://raw.githubusercontent.com/rahulsharmadev-community/ico/beta/assets/vs.png)

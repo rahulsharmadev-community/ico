@@ -3,7 +3,7 @@ description: Flutter plugin for awesome icons.
 maintainer: Rahul Sharma (@rahulsharmadev)
 homepage: https://github.com/rahulsharmadev-community/
 repository: https://github.com/rahulsharmadev-community/ico/
-version: 0.0.2
+version: 0.0.3
 
 
 environment:
